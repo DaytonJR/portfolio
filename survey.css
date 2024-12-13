@@ -1,0 +1,40 @@
+body {
+    background-image: url('https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/c/4c/c4c5ca84-ca80-11ed-a734-efb9aa8ce747/641e052068c1a.image.jpg?resize=800%2C500'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+}
+body {
+    text-align: center;
+}
+#survey-form{ 
+    background-color: rgba(255,255,255,.9);
+    padding: 20px; 
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.2);
+    width: 500px;
+    text-align: left; 
+    margin-top: 100px;
+    display: inline-block;
+}
+p { 
+    font-size: 20px
+}
+h1 { 
+    background-color: rgba(255,255,255,1);
+    padding: 20px;
+    margin: auto; 
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.2);
+    width: 500px;
+    text-align: left; 
+    margin-top: 20px;
+}
+.textpadding{ 
+    margin: 10px;
+    padding: 10px;
+}
+p { 
+    font-family: arial;
+    font-size: 25px
+}
